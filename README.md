@@ -1,5 +1,5 @@
 #### The repository contains all the code used in the project.
-**Title:** Intrusion Detection in IoT Systems Using Ensemble Machine Learning Techniques
+**Title:** Intrusion Detection in IoT Systems Using Ensemble Machine Learning Techniques  
 **Publisher:** IEEE  
 **Authors:** Bishal Laha; Debopriya Basu; Souvik Biswas; Pallabi Gupta; Bikash Sadhukhan  
 **Published in:** 2023 IEEE 4th Annual Flagship India Council International Subsections Conference (INDISCON)  
