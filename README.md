@@ -3,7 +3,7 @@
 **Publisher:** IEEE  
 **Authors:** Bishal Laha; Debopriya Basu; Souvik Biswas; Pallabi Gupta; Bikash Sadhukhan  
 **Published in:** 2023 IEEE 4th Annual Flagship India Council International Subsections Conference (INDISCON)  
-**Date of Conference:** 05-07 August 2023  
+**Date of Conference:** 05 August 2023  
 **Date Added to IEEE Xplore:** 10 October 2023  
 **ISBN Information:**  
 - Electronic ISBN: 979-8-3503-3355-8  
